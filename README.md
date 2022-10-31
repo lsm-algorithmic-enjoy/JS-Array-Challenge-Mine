@@ -19,4 +19,4 @@
 4. solve.test.js 에 테스트 케이스를 추가한다.
 
 
-챌린지 진행 결과: https://github.com/lsm-algorithmic-enjoy/JS-Array-Challenge-Mine/tree/master/Challenge/lsm-algorithmic-enjoy
+나의 챌린지 진행 결과: https://github.com/lsm-algorithmic-enjoy/JS-Array-Challenge-Mine/tree/master/Challenge/lsm-algorithmic-enjoy
